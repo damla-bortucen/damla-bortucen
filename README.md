@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Damla. I am a first year at UCL studying BSc Computer Science.
+My name is Damla. I am a second year BSc Computer Science student at UCL doing a minor in Intelligent Systems.
 <!--
 **damla-bortucen/damla-bortucen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
